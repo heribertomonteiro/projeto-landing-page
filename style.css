@@ -1,0 +1,91 @@
+:root {
+    font-size: 62.5%;
+}
+
+#container-header{
+    display: flex;
+    gap: 110rem;
+}
+
+body{
+    font-size: 1.6rem;
+    padding: 5rem 20rem;
+    font-family: Lucida Sans, Helvetica, Arial, sans-serif;
+}
+
+header > img{
+    width: 8rem;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    display: flex;
+    gap: 5rem;
+}
+
+main{
+    display: flex;
+    gap: 30rem;
+}
+
+section > img{
+    width: 60rem;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+#content-text{
+    margin-top: 10rem;
+}
+
+footer > p{
+    margin: 10rem 50rem;
+}
+
+span{
+    color: rgb(0, 174, 255);
+}
+
+button{
+    color: white;
+    background-color: rgb(52, 175, 35);
+    border-width: 0 0;
+    border-radius:5px;
+    padding:0 10rem;
+    display: flex;
+    gap: 1rem;
+    margin-top: 5rem;
+}
+
+button > img{
+    margin:auto  0 ;
+    width: 2rem;
+}
+
+
+
+section > p{
+    line-height: 4rem;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(102, 99, 99);
+}
+
+p{
+    color: rgb(102, 99, 99);
+}
+button > p{
+    color: white;
+    font-size: 1.5rem;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
